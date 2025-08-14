@@ -28,23 +28,9 @@
   <img height="165" src="https://streak-stats.demolab.com?user=anilburakc&theme=dark&hide_border=true" alt="streak stats" />
 </p>
 
-<!-- 3) Activity Graph -->
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anilburakc&theme=react-dark&radius=12&hide_border=true" alt="activity graph" />
-</p>
-
 <!-- 4) Top Languages (optional; remove if you don't like it) -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilburakc&layout=compact&theme=dark&hide_border=true" alt="top languages" />
-</p>
-
-<!-- 5) Profile Summary Cards -->
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilburakc&theme=github_dark" alt="profile details" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anilburakc&theme=github_dark" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anilburakc&theme=github_dark" alt="productive time" />
 </p>
 
 <!-- 6) Trophy (achievements) -->
